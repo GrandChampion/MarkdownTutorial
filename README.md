@@ -66,7 +66,7 @@ function add(num1, num2){
 <!-- Tables -->
 | Name | Email |
 | ---- | ----- |
-|James | James@google.com |
+|Elon | Elon@tesla.com |
 
 <!-- Task Lists -->
 * [x] Task 1
